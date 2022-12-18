@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hockey/static/css/main.33ae229d.css",
-    "main.js": "/hockey/static/js/main.6b4148fd.js",
+    "main.js": "/hockey/static/js/main.5fb807dd.js",
     "static/media/slider-1.jpg": "/hockey/static/media/slider-1.bd4ae3853e988e0595c1.jpg",
     "static/media/slogan.png": "/hockey/static/media/slogan.0a1755b29c629c5373a4.png",
     "static/media/klyuschka.png": "/hockey/static/media/klyuschka.f493155515f020d5a660.png",
@@ -18,10 +18,10 @@
     "static/media/charts.svg": "/hockey/static/media/charts.f4d74ff57358d8de2a9033973af157d7.svg",
     "static/media/arrowLeft.svg": "/hockey/static/media/arrowLeft.b80d6753f816707bb8cb2da5583c623c.svg",
     "main.33ae229d.css.map": "/hockey/static/css/main.33ae229d.css.map",
-    "main.6b4148fd.js.map": "/hockey/static/js/main.6b4148fd.js.map"
+    "main.5fb807dd.js.map": "/hockey/static/js/main.5fb807dd.js.map"
   },
   "entrypoints": [
     "static/css/main.33ae229d.css",
-    "static/js/main.6b4148fd.js"
+    "static/js/main.5fb807dd.js"
   ]
 }
