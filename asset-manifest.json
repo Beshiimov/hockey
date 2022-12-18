@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hockey/static/css/main.33ae229d.css",
+    "main.js": "/hockey/static/js/main.6b4148fd.js",
+    "static/media/slider-1.jpg": "/hockey/static/media/slider-1.bd4ae3853e988e0595c1.jpg",
+    "static/media/slogan.png": "/hockey/static/media/slogan.0a1755b29c629c5373a4.png",
+    "static/media/klyuschka.png": "/hockey/static/media/klyuschka.f493155515f020d5a660.png",
+    "static/media/telegramm.svg": "/hockey/static/media/telegramm.7f1710c8863d62f18bca672f0b105c8f.svg",
+    "static/media/footerLogo.svg": "/hockey/static/media/footerLogo.bb16b9bc8fe6b1b1a9b94c109a0a6020.svg",
+    "static/media/vk.svg": "/hockey/static/media/vk.631f275957cce790789445f95db64e7e.svg",
+    "static/media/phone.svg": "/hockey/static/media/phone.6a52050abffa40880aee07c68d61c6fb.svg",
+    "index.html": "/hockey/index.html",
+    "static/media/shop.svg": "/hockey/static/media/shop.507c8c56711fef8d6d1d969eb72837ff.svg",
+    "static/media/profile.svg": "/hockey/static/media/profile.276aca2b98f3d00554fdb17a8305fcef.svg",
+    "static/media/logo.svg": "/hockey/static/media/logo.2676086e5485295cb0b0de63baa96449.svg",
+    "static/media/search.svg": "/hockey/static/media/search.e9998acb3913e00e9ff09272411a7f52.svg",
+    "static/media/play.svg": "/hockey/static/media/play.6f3aba42ea609b29896bbfd36a9b6a9f.svg",
+    "static/media/charts.svg": "/hockey/static/media/charts.f4d74ff57358d8de2a9033973af157d7.svg",
+    "static/media/arrowLeft.svg": "/hockey/static/media/arrowLeft.b80d6753f816707bb8cb2da5583c623c.svg",
+    "main.33ae229d.css.map": "/hockey/static/css/main.33ae229d.css.map",
+    "main.6b4148fd.js.map": "/hockey/static/js/main.6b4148fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ae229d.css",
+    "static/js/main.6b4148fd.js"
+  ]
+}
